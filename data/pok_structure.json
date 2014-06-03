@@ -1,0 +1,93 @@
+{
+    "nodes":[
+        {
+          "name" : "POK",
+          "members" : [
+              {
+                  "name": "Henk Bodrige",
+                  "impact": 10
+              },
+              {
+                  "name": "Carmine Osvaldo",
+                  "impact": 9
+              },
+              {
+                  "name": "Ale L. Hanne",
+                  "impact": 8
+              },
+              {
+                  "name": "Jeroen Karel",
+                  "impact": 7
+              },
+              {
+                  "name": "Valentine Mies",
+                  "impact": 6
+              },
+              {
+                  "name": "Yanick Cato",
+                  "impact": 5
+              },
+              {
+                  "name": "Joreto Katell",
+                  "impact": 4
+              }
+          ]
+        },
+        {
+            "name" : "Ministry of Health",
+            "members" : [
+                {
+                    "name" : "Cesare Nespola"
+                }
+            ]
+        }
+    ],
+    "links":[
+        {
+            "source" : 0,
+            "target" : 8,
+            "value" : 1
+        },
+        {
+            "source" : 0,
+            "target" : 1,
+            "value" : 1
+        },
+        {
+            "source" : 0,
+            "target" : 2,
+            "value" : 1
+        },
+        {
+            "source" : 0,
+            "target" : 3,
+            "value" : 1
+        },
+        {
+            "source" : 0,
+            "target" : 4,
+            "value" : 1
+        },
+        {
+            "source" : 0,
+            "target" : 5,
+            "value" : 1
+        },
+        {
+            "source" : 0,
+            "target" : 6,
+            "value" : 1
+        },
+        {
+            "source" : 0,
+            "target" : 7,
+            "value" : 1
+        },
+        {
+            "source" : 8,
+            "target" : 9,
+            "value" : 1
+        }
+    ]
+
+}
